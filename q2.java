@@ -7,7 +7,7 @@ package lab6;
 import java.util.Scanner;
 /**
  *
- * @author rakesh
+ * @author sathiah balaji
  */
 public  class q2
 {
